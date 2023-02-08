@@ -1,0 +1,10 @@
+{
+  "name": "firegento/m1-conferences",
+  "license": "GPL-3.0-only",
+  "type": "magento-module",
+  "description": "FireGento Conferences Module for FireGento Shop",
+  "homepage": "https://github.com/firegento/m1-conferences",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

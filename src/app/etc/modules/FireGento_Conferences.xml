@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <FireGento_Conferences>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+                <Mage_Core />
+                <Mage_Sales />
+
+            </depends>
+        </FireGento_Conferences>
+    </modules>
+</config>

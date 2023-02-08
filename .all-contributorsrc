@@ -1,0 +1,24 @@
+{
+  "projectName": "m1-mageuc-conferences",
+  "projectOwner": "firegento",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "riconeitzel",
+      "name": "Rico Neitzel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/930706?v=4",
+      "profile": "http://riconeitzel.de/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
