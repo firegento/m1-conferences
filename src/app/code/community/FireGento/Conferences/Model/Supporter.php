@@ -1,6 +1,6 @@
 <?php
 
-class MageUC_Supporter_Model_Supporter extends Mage_Core_Model_Abstract
+class FireGento_Conferences_Model_Supporter extends Mage_Core_Model_Abstract
 {
     const DATA_COLUMN_PRODUCT_OPTIONS = 'product_options';
 
