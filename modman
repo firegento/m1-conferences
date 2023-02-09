@@ -1,3 +1,3 @@
 src/app/code/community/FireGento/Conferences/
 src/app/etc/modules/FireGento_Conferences.xml
-src/app/design/frontend/base/default/firegento/conferences/supporter
+src/app/design/frontend/base/default/template/firegento/conferences/supporter/
